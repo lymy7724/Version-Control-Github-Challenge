@@ -1,0 +1,11 @@
+1. The terminal is an app that lets users communicate with the operating system using a command line. As users enter different commands, the computer will perform the tasks. 
+
+2. Git is a decentralized/distributed version control system whereas GitHub is hosting service that allows you to manage your Git repositories. 
+
+3. Steps to fork a GitHub repository:
+	- Navigate to the repository on GitHub
+	- On the top right corner of the page, click the "Fork" button
+	- You can name the repository and add description
+	- Click create fork 
+	
+	You can then make edits and send pull request to original owner. 
